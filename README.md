@@ -146,5 +146,5 @@ Previously **Senior Web Designer and Interim Head of Brand at Sisense** (B2B ana
 ---
 
 <div align="center">
-<sub>All repos are private. Reach out at <a href="https://katleenluistro.com">katleenluistro.com</a> or <a href="mailto:hello@693labs.com">hello@693labs.com</a></sub>
+<sub>All repos are private. Reach out at <a href="mailto:hello@693labs.com">hello@693labs.com</a></sub>
 </div>
