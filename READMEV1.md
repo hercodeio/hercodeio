@@ -44,9 +44,9 @@
 
 ---
 
-### Hello 👋
+### About
 
-Hi I'm Katleen, a product designer who builds. I have 10+ years across product, brand, and web which has culminated into starting and most recently running **693 Labs**, my independent product lab where I ship SaaS tools end-to-end across design, frontend, backend, and GTM. I design the experience and build the product. My repos are private, but everything is live.
+I'm a product designer who builds. 10+ years across product, brand, and web — most recently running **693 Labs**, my independent product lab where I ship SaaS tools end-to-end across design, frontend, backend, and GTM. I design the experience. I build the product. My repos are private, but everything is live.
 
 Previously **Senior Web Designer and Interim Head of Brand at Sisense** (B2B analytics SaaS), where I led brand refreshes for the Fusion and Forge product lines, rebuilt the internal design system from scratch, and held cross-functional brand direction during an extended leadership vacancy. Before that, four years at **Felsburg Holt and Ullevig** designing and building public-facing web tools for major transportation infrastructure projects. Through **Luistro Designs**, I serve as Creative Director and Head of Digital Experience for Mile High Property Brothers, Colorado's top-ranked real estate team.
 
@@ -56,43 +56,43 @@ Previously **Senior Web Designer and Interim Head of Brand at Sisense** (B2B ana
 
 <table>
   <tr>
-    <td width="52"><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/checkload.png" width="40" height="40" /></td>
+    <td width="52"><img src="icons/checkload.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong><a href="https://checkloadapp.com">CheckLoad</a></strong><br/><sub>A visual-first project management tool built around one rule: every feature has to reduce the work, not add to it. Clients see live progress with no login. Teams collaborate without per-seat pricing. Nothing needs to be configured, maintained, or explained.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/stassh.png" width="40" height="40" /></td>
+    <td><img src="icons/stassh.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong><a href="https://stasshes.com">Stassh</a></strong><br/><sub>An intentional, intelligent bookmark manager that captures not just the link but why you saved it, with auto-screenshots, smart tagging, and public vaults that turn your personal library into a discoverable knowledge resource.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/writr.png" width="40" height="40" /></td>
+    <td><img src="icons/writr.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong><a href="https://writrai.com">WritrAI</a></strong><br/><sub>A content repurposing platform that converts YouTube videos into structured, publication-ready blog posts optimized for both traditional search and AI-generated overviews. Video is the source of truth and written content should not have to be created twice.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/nexlo.png" width="40" height="40" /></td>
+    <td><img src="icons/nexlo.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong><a href="https://nexloapp.com">Nexlo</a></strong><br/><sub>A digital identity platform that collapses your entire online presence into a single scannable profile with a QR code, replacing the static business card with a live, editable handshake layer that eliminates the follow-up entirely.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/notterly.png" width="40" height="40" /></td>
+    <td><img src="icons/notterly.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong><a href="https://notterlyai.com">Notterly</a></strong><br/><sub>An AI-powered study app that converts lectures and uploaded notes into structured study guides and calibrated practice tests, built on the thesis that note-taking and studying are the same activity done in the wrong sequence.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/neirr.png" width="40" height="40" /></td>
+    <td><img src="icons/neirr.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong><a href="https://neirr.me">Neirr</a></strong><br/><sub>A spiritual guidance app that meets you wherever you are. Share what you are going through and receive wisdom and direction grounded in scripture, like a pastor in your pocket available any time.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/quizard.png" width="40" height="40" /></td>
+    <td><img src="icons/quizard.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong><a href="https://quizardisles.com">Quizard Isles</a></strong><br/><sub>A fantasy learning game where kids answer math, geography, and science questions to unlock infinite islands, conquer new worlds, and climb the leaderboard. Its intelligence algorithm adapts as they improve, with each island's unique lore keeping the world exciting, collectible, and worth exploring.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/webblr.png" width="40" height="40" /></td>
+    <td><img src="icons/webblr.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong><a href="https://webblr.com">Webblr</a></strong><br/><sub>A one-of-a-kind interactive typing app. As you type, spiders crawl across the screen spinning intricate webs from your keystrokes. Part art, part game, entirely mesmerizing.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/lovereceiptt.png" width="40" height="40" /></td>
+    <td><img src="icons/lovereceiptt.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong>The Love Receipt</strong> <em>(redesign in progress)</em><br/><sub>An anti-wellness journaling app that converts freeform emotional input into AI-generated thermal receipt artifacts that give messy, unstructured feeling a form that feels earned rather than performed.</sub></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/fuellog.png" width="40" height="40" /></td>
+    <td><img src="icons/fuellog.png" width="40" height="40" style="border-radius:10px"/></td>
     <td><strong>FuelLog</strong><br/><sub>Personal fuel and vehicle tracking. Log fill-ups, track mileage, and monitor spend over time.</sub></td>
   </tr>
   <tr>
@@ -140,6 +140,8 @@ Previously **Senior Web Designer and Interim Head of Brand at Sisense** (B2B ana
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hercodeio&theme=dark&background=0d0d0d&border=222222&ring=4f8ef7&fire=a78bfa&currStreakLabel=ffffff&sideLabels=888888&dates=666666)](https://github.com/hercodeio)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hercodeio&layout=compact&theme=dark&bg_color=0d0d0d&border_color=222222&title_color=ffffff&text_color=888888&count_private=true)](https://github.com/hercodeio)
 
 </div>
 
