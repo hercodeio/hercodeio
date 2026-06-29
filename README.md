@@ -44,7 +44,7 @@
 
 ---
 
-### About
+### Hello 👋
 
 I'm a product designer who builds. 10+ years across product, brand, and web — most recently running **693 Labs**, my independent product lab where I ship SaaS tools end-to-end across design, frontend, backend, and GTM. I design the experience. I build the product. My repos are private, but everything is live.
 
