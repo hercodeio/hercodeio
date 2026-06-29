@@ -19,7 +19,7 @@
   <line x1="400" y1="0" x2="400" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
   <line x1="600" y1="0" x2="600" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
   <rect x="48" y="48" width="3" height="84" rx="2" fill="url(#accent)"/>
-  <text x="68" y="88" font-family="ui-monospace, 'SF Mono', monospace" font-size="11" fill="#4f8ef7" letter-spacing="3" opacity="0.9">KATLEEN LUISTRO</text>
+  <text x="68" y="88" font-family="ui-monospace, 'SF Mono', monospace" font-size="11" fill="#4f8ef7" letter-spacing="3" opacity="0.9">KATLEEN LUISTRO<br></text>
   <text x="67" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Product Designer &amp; Builder</text>
   <text x="68" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#888888" letter-spacing="0.2">Founder of 693 Labs · 12+ apps shipped · Denver, CO</text>
   <circle cx="720" cy="40" r="2" fill="#4f8ef7" opacity="0.4"/>
