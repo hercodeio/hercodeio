@@ -46,7 +46,7 @@
 
 ### Hello 👋
 
-Hi I'm Katleen, a product designer who builds. I have 10+ years across product, brand, and web which has culminated into starting and most recently running **693 Labs**, my independent product lab where I ship SaaS tools end-to-end across design, frontend, backend, and GTM. I design the experience and build the product. My repos are private, but everything is live.
+I'm Katleen, a product designer who builds. I have 10+ years across product, brand, and web which has culminated into starting and most recently running **693 Labs**, my independent product lab where I ship SaaS tools end-to-end across design, frontend, backend, and GTM. I design the experience and build the product. My repos are private, but everything is live.
 
 Previously **Senior Web Designer and Interim Head of Brand at Sisense** (B2B analytics SaaS), where I led brand refreshes for the Fusion and Forge product lines, rebuilt the internal design system from scratch, and held cross-functional brand direction during an extended leadership vacancy. Before that, four years at **Felsburg Holt and Ullevig** designing and building public-facing web tools for major transportation infrastructure projects. Through **Luistro Designs**, I serve as Creative Director and Head of Digital Experience for Mile High Property Brothers, Colorado's top-ranked real estate team.
 
