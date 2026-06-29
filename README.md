@@ -19,7 +19,7 @@
   <line x1="400" y1="0" x2="400" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
   <line x1="600" y1="0" x2="600" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
   <rect x="48" y="48" width="3" height="84" rx="2" fill="url(#accent)"/>
-  <text x="68" y="88" font-family="ui-monospace, 'SF Mono', monospace" font-size="11" fill="#4f8ef7" letter-spacing="3" opacity="0.9">KATLEEN LUISTRO<br></text>
+  <text x="68" y="88" font-family="ui-monospace, 'SF Mono', monospace" font-size="14" fill="#4f8ef7" letter-spacing="3" opacity="0.9">KATLEEN LUISTRO<br></text>
   <text x="67" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Product Designer &amp; Builder</text>
   <text x="68" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#888888" letter-spacing="0.2">Founder of 693 Labs · 12+ apps shipped · Denver, CO</text>
   <circle cx="720" cy="40" r="2" fill="#4f8ef7" opacity="0.4"/>
@@ -46,7 +46,7 @@
 
 ### Hello 👋
 
-I'm Katleen, a product designer who builds. I have 10+ years across product, brand, and web which has culminated into starting and most recently running **693 Labs**, my independent product lab where I ship SaaS tools end-to-end across design, frontend, backend, and GTM. I design the experience and build the product. My repos are private, but everything is live.
+I'm Katleen, a product designer who builds. I have 10+ years across product, brand, and web which has culminated into starting and running **693 Labs**, my independent product lab where I ship SaaS tools end-to-end across design, frontend, backend, and GTM. I design the experience and build the product. My repos are private, but everything is live.
 
 Previously **Senior Web Designer and Interim Head of Brand at Sisense** (B2B analytics SaaS), where I led brand refreshes for the Fusion and Forge product lines, rebuilt the internal design system from scratch, and held cross-functional brand direction during an extended leadership vacancy. Before that, four years at **Felsburg Holt and Ullevig** designing and building public-facing web tools for major transportation infrastructure projects. Through **Luistro Designs**, I serve as Creative Director and Head of Digital Experience for Mile High Property Brothers, Colorado's top-ranked real estate team.
 
