@@ -57,7 +57,7 @@ Previously **Senior Web Designer and Interim Head of Brand at Sisense** (B2B ana
 <table>
   <tr>
     <td width="52"><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/checkload.png" width="40" height="40" /></td>
-    <td><strong><a href="https://checkloadapp.com">CheckLoad</a></strong><br/><sub>A visual-first project management tool built around one rule: every feature has to reduce the work, not add to it. Clients see live progress with no login. Teams collaborate without per-seat pricing. Nothing needs to be configured, maintained, or explained.</sub></td>
+    <td><strong><a href="https://checkloadapp.com">CheckLoad</a></strong><br/><sub>A visual-first zero0admin project management tool built around one rule: every feature has to reduce the work, not add to it. Clients see live progress with no login. Teams collaborate without per-seat pricing. All progress synced for every view. Nothing needs to be configured, maintained, or explained.</sub></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/hercodeio/hercodeio/main/icons/stassh.png" width="40" height="40" /></td>
